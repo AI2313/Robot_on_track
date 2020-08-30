@@ -18,7 +18,7 @@ puede obtenerse por un periodo de tiempo de 30 días en su versión demo, la cua
 Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento.
  
  ![stack Overflow](http://lmsotfy.com/so.png) 
- ![Optional Text](../master/myFolder/image.png)
+ ![prueba](../master/myFolder/imagen1.png)
 
 ### Instalación 🔧
 
