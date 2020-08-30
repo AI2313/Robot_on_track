@@ -40,9 +40,11 @@ como one drive, dropbox u gibhut para el intercambio de los archivos manejados p
 ### Instalación 🔧
 
 Manual del operador utilizado para la instalación del software requerido.
+
 https://library.e.abb.com/public/7d9f228617b746a98aebbf830b1b08f0/3HAC032104%20OM%20RobotStudio-es.pdf
 
 Video paso a paso de instación de software
+
 https://www.youtube.com/watch?v=72noUgD_hk0&t=188s
 https://www.youtube.com/watch?v=XprKv2AyUyk
 
