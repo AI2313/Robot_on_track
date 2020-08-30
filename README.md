@@ -20,23 +20,32 @@ diversas áreas de la bodega en función.
 ## Comenzando 🚀
 
 # PACK AND GO 
-Esta herramienta nos permite compartir los diversos archivos trabajados dentro software, la misma es el medio de compartimiento más seguro para garantizar que las extensiones
-se mantengan en orden como librerías.
+Esta herramienta nos permite guardar y compartir los diversos archivos trabajados dentro del software, la misma es el medio de compartimiento más seguro para garantizar que las extensiones se mantengan en orden como librerías.
+
+# UNPACK AND WORK 
+Es el método que nos permite descomprimir los archivos que vienen empaquetados, y poder trabajarlos desde nuestros ordenadores.
+
+# SAVE STATION AS VIEWER
+La misma es favorable debido que a proporciona la posibilidad de poder visualizar el desarrollo ejecutado en cada una de las estaciones guardas.
 ![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Pack%20and%20GO.PNG)
+
 
 ### Pre-requisitos 📋
 
 Para el desarrollo del diseño de este sistema se necesita el software robotstudio ABB la versión 6.08.01 instalada en su PC,
 puede obtenerse por un periodo de tiempo de 30 días en su versión demo, la cual permite realiazar las debidas interacciones.
-Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento.
+Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento. Se recomienda el uso de aplicaciones 
+como one drive, dropbox u gibhut para el intercambio de los archivos manejados por el robostudio.
  
 ### Instalación 🔧
 
 Manual del operador utilizado para la instalación del software requerido.
 https://library.e.abb.com/public/7d9f228617b746a98aebbf830b1b08f0/3HAC032104%20OM%20RobotStudio-es.pdf
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-_Dí cómo será ese paso_
+Video paso a paso de instación de software
+https://www.youtube.com/watch?v=72noUgD_hk0&t=188s
+https://www.youtube.com/watch?v=XprKv2AyUyk
+
 
 ```
 Da un ejemplo
