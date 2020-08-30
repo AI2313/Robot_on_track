@@ -95,7 +95,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-* [ABB] (https://new.abb.com/products/robotics/es/robotstudio/descargas)- Software Robostudio v.6.08.01
+* [ABB] (https://new.abb.com/products/robotics/es/robotstudio/descargas) Software Robostudio v.6.08.01
 
 ## Autores ✒️
 
