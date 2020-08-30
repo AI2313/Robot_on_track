@@ -105,6 +105,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 ## Expresiones de Gratitud 🎁
 
 *Agradecer al profesor Pablo Gonzalez por el conocimiento transmitido de manera práctica en este corto tiempo curso.
+
 *Compartir dicha investigación con colegas en campo laboral.
 
 ## Referencias 
