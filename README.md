@@ -100,7 +100,12 @@ Da un ejemplo
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+*Mantener el control del área de trabajo utilizando el SHIFT+CONTROL Y el mouse.
+*El smartgripper debe ser creado y agregado como primer punto dentro del proceso.
+*Analizar e investigar de manera independiente el uso de señales análogas y digitales.
+*Investigar el uso y programación de RAPID y sus comandos.
+*Conocer las propiedades de cada una de las señales a utilizar y su funcionamiento.
+
 
 ## Construido con 🛠️
 
