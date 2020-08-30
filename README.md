@@ -18,6 +18,7 @@ puede obtenerse por un periodo de tiempo de 30 días en su versión demo, la cua
 Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento.
  
  ![stack Overflow](http://lmsotfy.com/so.png) 
+ ![SMaRTCOMPONENT](C:\Users\Elida Dominguez\Desktop\9no CUATRIMESTRE ING. EN MECATRÓNICA\Sistema de manufactura flexible\Proyecto)
 
 ### Instalación 🔧
 
