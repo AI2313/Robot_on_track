@@ -6,15 +6,21 @@ desenmontadas por el robot IRB 4600 ABB y su IRBT2005_IRB y colocadas en un stan
 diversas áreas de la bodega en función.
 
 # Diseño de gripper
-![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_1.PNG)
-![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_2.PNG)
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_1.PNG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_2.PNG" />
+</p>
+
 ![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_3.PNG)
 
 # Diseño smart gripper 
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Smartgripper.PNG" />
 </p>
-![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Smartgripper.PNG)
+
 
 # Diseño de smart component
 ![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20smart%20component.PNG)
