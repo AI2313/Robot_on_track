@@ -16,7 +16,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 Para el desarrollo del diseño de este sistema se necesita el software robotstudio ABB la versión 6.08.01 instalada en su PC,
 puede obtenerse por un periodo de tiempo de 30 días en su versión demo, la cual permite realiazar las debidas interacciones.
 Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento.
-
+https://www.google.com/search?q=robotstudio+abb&sxsrf=ALeKk02YsYNYVHUhcGdTR4uC6pWlkKIv3w:1598761522167&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjfz-_kisLrAhWvwVkKHULVCp8Q_AUoAXoECA0QAw&biw=1517&bih=730#imgrc=i_dB6rjXFTxm9M
 
 ### Instalación 🔧
 
