@@ -6,7 +6,7 @@ desenmontadas por el robot IRB 4600 ABB y su IRBT2005_IRB y colocadas en un stan
 diversas áreas de la bodega en función.
 
 SMART GRIPPER 
- ![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/imAgen1.PNG)
+ ![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_1.PNG)
 
 DISEÑO DE ESTACIÓN 
 
