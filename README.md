@@ -64,32 +64,15 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-Robostudio v.6.08.01
-* [ABB] (https://new.abb.com/products/robotics/es/robotstudio/descargas)- Software
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+* [ABB] (https://new.abb.com/products/robotics/es/robotstudio/descargas)- Software Robostudio v.6.08.01
 
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Elida Domínguez** - *Documentación* - [elida](https://github.com/elida1412)
+* **Alex Montero** - *Documentación* - [A12313](https://github.com/A12313)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
@@ -102,21 +85,7 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Da las gracias públicamente 🤓.
 * etc.
 
-
-
-
-
-# Robot_on_track
-Repositorio de archivos para desarrollar proyecto de sistemas flexibles de manufactura.
-
-Planificación estratégica de proyecto
-
-Datasheet de proyecto
-
-
-
-
-Referencias.
+## Referencias 
 funcionamiento del on_track - https://www.youtube.com/watch?v=yArIkRpI7CY&t=366s
 
 ejemplo robotstudio - https://robotapps.robotstudio.com/#/landing
