@@ -26,8 +26,13 @@ diversas áreas de la bodega en función.
 
 
 # Diseño de smart component
-![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20smart%20component.PNG)
-![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20smart%20component_1.PNG)
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20smart%20component.PNG" />
+</p>
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20smart%20component_1.PNG" />
+</p>
+
 
 ## Comenzando 🚀
 
@@ -39,7 +44,10 @@ Es el método que nos permite descomprimir los archivos que vienen empaquetados,
 
 # Save station as viewer
 La misma es favorable debido que a proporciona la posibilidad de poder visualizar el desarrollo ejecutado en cada una de las estaciones guardas.
-![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Pack%20and%20GO.PNG)
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Pack%20and%20GO.PNG" />
+</p>
+
 
 
 ### Pre-requisitos 📋
