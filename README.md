@@ -49,18 +49,6 @@ https://www.youtube.com/watch?v=72noUgD_hk0&t=188s
 https://www.youtube.com/watch?v=XprKv2AyUyk
 
 
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
 ## Ejecutando las pruebas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
