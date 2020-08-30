@@ -19,9 +19,10 @@ diversas áreas de la bodega en función.
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+# PACK AND GO 
+Esta herramienta nos permite compartir los diversos archivos trabajados dentro software, la misma es el medio de compartimiento más seguro para garantizar que las extensiones
+se mantengan en orden como librerías.
+![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Pack%20and%20GO.PNG)
 
 ### Pre-requisitos 📋
 
@@ -79,10 +80,8 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Elida Domínguez** - *Documentación* - [elida](https://github.com/elida1412)
-* **Alex Montero** - *Documentación* - [A12313](https://github.com/A12313)
+* **Elida Domínguez** - *Documentación-Pruebas* - [elida](https://github.com/elida1412)
+* **Alex Montero** - *Documentación-Pruebas* - [A12313](https://github.com/A12313)
 
 ## Expresiones de Gratitud 🎁
 
