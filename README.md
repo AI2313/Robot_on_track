@@ -5,6 +5,8 @@ Este proyecto consiste en el despaletizado de cajas que ingresan al sistema con 
 desenmontadas por el robot IRB 4600 ABB y su IRBT2005_IRB y colocadas en un stand para luego ser movidas por los operarios a
 diversas áreas de la bodega en función.
 
+ ![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/imAgen1.PNG)
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
@@ -17,9 +19,6 @@ Para el desarrollo del diseño de este sistema se necesita el software robotstud
 puede obtenerse por un periodo de tiempo de 30 días en su versión demo, la cual permite realiazar las debidas interacciones.
 Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento.
  
- ![stack Overflow](http://lmsotfy.com/so.png) 
- ![prueba](https://github.com/AI2313/Robot_on_track/blob/master/imAgen1.PNG)
-
 ### Instalación 🔧
 
 Manual del operador utilizado para la instalación del software requerido.
