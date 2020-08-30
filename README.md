@@ -86,14 +86,13 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+*Agradecer al profesor Pablo Gonzalez por el conocimiento transmitido de manera práctica en este corto tiempo curso.
+*Compartir dicha investigación con colegas en campo laboral.
 
 ## Referencias 
-funcionamiento del on_track - https://www.youtube.com/watch?v=yArIkRpI7CY&t=366s
 
-ejemplo robotstudio - https://robotapps.robotstudio.com/#/landing
+Funcionamiento del on_track - https://www.youtube.com/watch?v=yArIkRpI7CY&t=366s
+
+Ejemplo robotstudio - https://robotapps.robotstudio.com/#/landing
  
- Referencias de paletizadoras ABB https://robotapps.robotstudio.com/#/viewApp/561201ce-ec3a-4140-a312-66d5c8b3f231
+Referencias de paletizadoras ABB https://robotapps.robotstudio.com/#/viewApp/561201ce-ec3a-4140-a312-66d5c8b3f231
