@@ -5,9 +5,10 @@ Este proyecto consiste en el despaletizado de cajas que ingresan al sistema con 
 desenmontadas por el robot IRB 4600 ABB y su IRBT2005_IRB y colocadas en un stand para luego ser movidas por los operarios a
 diversas áreas de la bodega en función.
 
-DISEÑO DE PROYECTO
 SMART GRIPPER 
  ![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/imAgen1.PNG)
+
+DISEÑO DE ESTACIÓN 
 
 ## Comenzando 🚀
 
