@@ -14,7 +14,10 @@ diversas áreas de la bodega en función.
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_2.PNG" />
 </p>
 
-![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_3.PNG)
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_3.PNG" />
+</p>
+
 
 # Diseño smart gripper 
 <p align="center">
