@@ -19,13 +19,13 @@ diversas áreas de la bodega en función.
 
 ## Comenzando 🚀
 
-# PACK AND GO 
+# Pack and go
 Esta herramienta nos permite guardar y compartir los diversos archivos trabajados dentro del software, la misma es el medio de compartimiento más seguro para garantizar que las extensiones se mantengan en orden como librerías.
 
-# UNPACK AND WORK 
+# Un pack and work 
 Es el método que nos permite descomprimir los archivos que vienen empaquetados, y poder trabajarlos desde nuestros ordenadores.
 
-# SAVE STATION AS VIEWER
+# Save station as viewer
 La misma es favorable debido que a proporciona la posibilidad de poder visualizar el desarrollo ejecutado en cada una de las estaciones guardas.
 ![Selección del smart gripper](https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Pack%20and%20GO.PNG)
 
@@ -103,4 +103,4 @@ Funcionamiento del on_track - https://www.youtube.com/watch?v=yArIkRpI7CY&t=366s
 
 Ejemplo robotstudio - https://robotapps.robotstudio.com/#/landing
  
-Referencias de paletizadoras ABB https://robotapps.robotstudio.com/#/viewApp/561201ce-ec3a-4140-a312-66d5c8b3f231
+Referencias de paletizadoras ABB- https://robotapps.robotstudio.com/#/viewApp/561201ce-ec3a-4140-a312-66d5c8b3f231
