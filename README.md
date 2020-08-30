@@ -16,7 +16,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 Para el desarrollo del diseño de este sistema se necesita el software robotstudio ABB la versión 6.08.01 instalada en su PC,
 puede obtenerse por un periodo de tiempo de 30 días en su versión demo, la cual permite realiazar las debidas interacciones.
 Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento.
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+ ![stack Overflow](http://lmsotfy.com/so.png) 
 ### Instalación 🔧
 
 Manual del operador utilizado para la instalación del software requerido.
