@@ -17,6 +17,7 @@ Para el desarrollo del diseño de este sistema se necesita el software robotstud
 puede obtenerse por un periodo de tiempo de 30 días en su versión demo, la cual permite realiazar las debidas interacciones.
 Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento.
  ![stack Overflow](http://lmsotfy.com/so.png) 
+
 ### Instalación 🔧
 
 Manual del operador utilizado para la instalación del software requerido.
@@ -63,8 +64,8 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
+Robostudio v.6.08.01
+https://new.abb.com/products/robotics/es/robotstudio/descargas
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
