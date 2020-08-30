@@ -66,12 +66,21 @@ https://library.e.abb.com/public/7d9f228617b746a98aebbf830b1b08f0/3HAC032104%20O
 Video paso a paso de instación de software
 
 https://www.youtube.com/watch?v=72noUgD_hk0&t=188s
+
 https://www.youtube.com/watch?v=XprKv2AyUyk
 
 
 ## Ejecutando las pruebas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
+
+https://www.youtube.com/watch?v=TdLE9qJyBvM
+
+https://www.youtube.com/watch?v=KrjZVw5zSd0
+
+https://www.youtube.com/watch?v=gcPKEXuhqlA
+
+https://www.youtube.com/watch?v=M7xBxlPnWUA
 
 ### Analice las pruebas end-to-end 🔩
 
