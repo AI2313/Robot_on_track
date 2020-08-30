@@ -65,7 +65,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 ## Construido con 🛠️
 
 Robostudio v.6.08.01
-https://new.abb.com/products/robotics/es/robotstudio/descargas
+[ABB] (https://new.abb.com/products/robotics/es/robotstudio/descargas)- Software
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
