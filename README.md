@@ -1,21 +1,22 @@
 
 # DESPALETIZACIÓN DE OBJETOS CON ROBOT ON TRACK Y ACTUADOR TIPO GRIPPER
 
-_Este proyecto consiste en el despaletizado de cajas que ingresan al sistema con ayuda de una banda transportadora, donde son
-desenmontadas por el robot IRB 4600 ABB y su IRBT2005_IRB
+Este proyecto consiste en el despaletizado de cajas que ingresan al sistema con ayuda de una banda transportadora, donde son
+desenmontadas por el robot IRB 4600 ABB y su IRBT2005_IRB y colocadas en un stand para luego ser movidas por los operarios a
+diversas áreas de la bodega en función.
 
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
+
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Para el desarrollo del diseño de este sistema se necesita el software robotstudio ABB la versión 6.08.01 instalada en su PC,
+puede obtenerse por un periodo de tiempo de 30 días en su versión demo, la cual permite realiazar las debidas interacciones.
+Adicional conocer la información referente al datasheet de cada equipo que será puesto en funcionamiento.
 
-```
-Da un ejemplo
-```
 
 ### Instalación 🔧
 
