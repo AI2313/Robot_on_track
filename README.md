@@ -92,26 +92,23 @@ https://www.youtube.com/watch?v=M7xBxlPnWUA
 
 ### Analice las pruebas end-to-end 🔩
 
-#Simulación del proyecto 
-
-
-#Verificación del funcionamiento de la estación
+# Verificación del funcionamiento de la estación
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/1.JPG" />
 </p>
 
-#Señales de smartgripper
+# Señales de smartgripper
 
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/3.JPG" />
 </p>
 
-#Señales del smart componet
+# Señales del smart componet
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/4.JPG" />
 </p>
 
-#Logig system 
+# Logig system 
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/5.JPG" />
 </p>
@@ -119,9 +116,11 @@ https://www.youtube.com/watch?v=M7xBxlPnWUA
 
 ### Y las pruebas de estilo de codificación ⌨️
 
-_Explica que verifican estas pruebas y por qué_
+# Código RAPID de solución de estación
+
+Con este código podremos ver el dezplamiento del robot a lo largo de ejecución, tomando las cajas y colocandolas en el est
 <p align="center">
-  <img src="https://1drv.ms/u/s!AnpN2TbP8iDHlWvCYUf4qGX3ni3a?e=ehByZf" />
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/C%C3%B3digo%20RAPID.PNG" />
 </p>
 
 ## Despliegue 📦
