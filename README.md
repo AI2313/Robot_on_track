@@ -5,6 +5,12 @@ Este proyecto consiste en el despaletizado de cajas que ingresan al sistema con 
 desenmontadas por el robot IRB 4600 ABB y su IRBT2005_IRB y colocadas en un stand para luego ser movidas por los operarios a
 diversas áreas de la bodega en función.
 
+# Entregable de proyecto
+https://1drv.ms/u/s!AnpN2TbP8iDHlWqpQomN2TpDSFl_?e=KHP8du
+
+# Simulación de proyecto
+https://1drv.ms/u/s!AnpN2TbP8iDHlWvCYUf4qGX3ni3a?e=ehByZf
+
 # Diseño de gripper
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Dise%C3%B1o%20de%20gripper_1.PNG" />
@@ -48,8 +54,6 @@ La misma es favorable debido que a proporciona la posibilidad de poder visualiza
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Dise%C3%B1o%20de%20proyecto/Pack%20and%20GO.PNG" />
 </p>
 
-
-
 ### Pre-requisitos 📋
 
 Para el desarrollo del diseño de este sistema se necesita el software robotstudio ABB la versión 6.08.01 instalada en su PC,
@@ -64,6 +68,7 @@ Manual del operador utilizado para la instalación del software requerido.
 https://library.e.abb.com/public/7d9f228617b746a98aebbf830b1b08f0/3HAC032104%20OM%20RobotStudio-es.pdf
 
 Manual de RAPID utilizado.
+
 https://github.com/AI2313/Robot_on_track/blob/master/Entregable/infoPLC_net_RAPID_Manual_operador.pdf
 
 Video paso a paso de instación de software.
@@ -74,8 +79,6 @@ https://www.youtube.com/watch?v=XprKv2AyUyk
 
 
 ## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
 
 Las pruebas realizadas dentro del proyecto se logran paso a paso con los siguientes link:
 
@@ -90,7 +93,7 @@ https://www.youtube.com/watch?v=M7xBxlPnWUA
 ### Analice las pruebas end-to-end 🔩
 
 #Simulación del proyecto 
-https://1drv.ms/u/s!AnpN2TbP8iDHlWqpQomN2TpDSFl_?e=KHP8du
+
 
 #Verificación del funcionamiento de la estación
 <p align="center">
@@ -117,11 +120,9 @@ https://1drv.ms/u/s!AnpN2TbP8iDHlWqpQomN2TpDSFl_?e=KHP8du
 ### Y las pruebas de estilo de codificación ⌨️
 
 _Explica que verifican estas pruebas y por qué_
-
-https://1drv.ms/u/s!AnpN2TbP8iDHlWvCYUf4qGX3ni3a?e=ehByZf
-```
-Da un ejemplo
-```
+<p align="center">
+  <img src="https://1drv.ms/u/s!AnpN2TbP8iDHlWvCYUf4qGX3ni3a?e=ehByZf" />
+</p>
 
 ## Despliegue 📦
 
