@@ -108,7 +108,7 @@ https://www.youtube.com/watch?v=M7xBxlPnWUA
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/4.JPG" />
 </p>
 
-# Logig system 
+# Logic system 
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/5.JPG" />
 </p>
@@ -118,7 +118,9 @@ https://www.youtube.com/watch?v=M7xBxlPnWUA
 
 # Código RAPID de solución de estación
 
-Con este código podremos ver el dezplamiento del robot a lo largo de ejecución, tomando las cajas y colocandolas en el est
+Con este código podremos ver el dezplamiento del robot a lo largo de ejecución, tomando las cajas y colocandolas en el estante.
+En la imagen se detalla los comentarios de desarrollo de funcionamiento.
+
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/C%C3%B3digo%20RAPID.PNG" />
 </p>
