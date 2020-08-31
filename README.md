@@ -89,16 +89,30 @@ https://www.youtube.com/watch?v=M7xBxlPnWUA
 
 ### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
+#Simulación del proyecto 
+https://1drv.ms/u/s!AnpN2TbP8iDHlWqpQomN2TpDSFl_?e=KHP8du
+
+#Verificación del funcionamiento de la estación
 <p align="center">
   <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/1.JPG" />
 </p>
 
+#Señales de smartgripper
 
-https://1drv.ms/u/s!AnpN2TbP8iDHlWqpQomN2TpDSFl_?e=KHP8du
-```
-Da un ejemplo
-```
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/3.JPG" />
+</p>
+
+#Señales del smart componet
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/4.JPG" />
+</p>
+
+#Logig system 
+<p align="center">
+  <img src="https://github.com/AI2313/Robot_on_track/blob/master/Entregable/5.JPG" />
+</p>
+
 
 ### Y las pruebas de estilo de codificación ⌨️
 
