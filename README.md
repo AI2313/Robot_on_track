@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=M7xBxlPnWUA
 ### Analice las pruebas end-to-end 🔩
 
 _Explica que verifican estas pruebas y por qué_
-
+https://1drv.ms/u/s!AnpN2TbP8iDHlWqpQomN2TpDSFl_?e=KHP8du
 ```
 Da un ejemplo
 ```
@@ -93,7 +93,7 @@ Da un ejemplo
 ### Y las pruebas de estilo de codificación ⌨️
 
 _Explica que verifican estas pruebas y por qué_
-
+https://1drv.ms/u/s!AnpN2TbP8iDHlWvCYUf4qGX3ni3a?e=ehByZf
 ```
 Da un ejemplo
 ```
