@@ -63,6 +63,8 @@ Manual del operador utilizado para la instalación del software requerido.
 
 https://library.e.abb.com/public/7d9f228617b746a98aebbf830b1b08f0/3HAC032104%20OM%20RobotStudio-es.pdf
 
+Manual de RAPID utilizado.
+
 Video paso a paso de instación de software
 
 https://www.youtube.com/watch?v=72noUgD_hk0&t=188s
